@@ -1,4 +1,4 @@
-# 3313-project
+# chatroom-app
 ### Instructions for use
 1. Compile Server
 2. Launch Server, specifying a port number and number of chat rooms
